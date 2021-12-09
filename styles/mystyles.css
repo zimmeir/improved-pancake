@@ -1,0 +1,53 @@
+
+h1{
+    color:cornsilk;
+    font-family: Helvetica, sans-serif;
+    
+}
+span{
+    color: cornsilk;
+    font-weight: bolder;
+}
+
+.my-style{
+    color:darkslategray;
+    text-align: center;
+}
+
+.page-tabs{
+    color:cornsilk;
+    font-size:25pt;
+    font-family: Helvetica, sans-serif;
+}
+
+.page-tabs:hover{
+    font-size:25pt;
+    color: rgb(0, 0, 255);
+}
+
+.column{
+    float:left;
+    width: 45%;
+}
+.stopfloating {
+    clear:both;
+}
+.cpwrt{
+    color: cornsilk;
+    font-weight: bolder;
+}
+.main {
+    margin-left: 50px;
+    margin-right: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 3px;
+    padding: 3px;
+}
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 2.5rem;            
+  }
+
+
